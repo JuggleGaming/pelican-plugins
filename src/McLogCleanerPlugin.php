@@ -29,6 +29,11 @@ class McLogCleanerPlugin implements HasPluginSettings, Plugin
         //
     }
 
+    public function getSettingsFormData(): array
+    {
+        return config('mclogcleaner');
+    }
+
     public function getSettingsForm(): array
     {
         return [
