@@ -1,1 +1,1 @@
-Made the plugin beta36 compatible. This change may result in a later unsupported backwards compatability. Unless announced everything should work just fine.
+Made the plugin beta36 compatible. This change may result in a later unsupported backwards compatibility. Unless announced everything should work just fine.
